@@ -30,4 +30,4 @@ This project is a student registration and login system built with PHP, HTML, CS
 5.Run the Application: 
   Start your local server through XAMPP, then open a browser and go to
    ```bash
-    http://localhost/register.php
+    http://localhost/student-login-portal
