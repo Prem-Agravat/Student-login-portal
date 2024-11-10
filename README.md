@@ -9,6 +9,10 @@ This project is a student registration and login system built with PHP, HTML, CS
 ## Usage
 - Register as a new student.
 - Log in with your student credentials.
+- Explore student's Dashboard (or Homepage)
+- Logout
+- Profile Management or Modification
+- Password Reset
   
 ## Installation
 
