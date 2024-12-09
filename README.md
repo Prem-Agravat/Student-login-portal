@@ -1,6 +1,6 @@
 # Student-login-portal
 
-This project is a student registration and login system built with PHP, HTML, CSS, and PostgreSQL. It allows students to create an account, log in, and after loged-in students can edit specific details.
+This project is a student registration and login system built with PHP, HTML, CSS, and phpMyAdmin. It allows students to create an account, log in, and after loged-in students can edit specific details.
 
 ## Features
  Student Registration: Allows new users to create an account by providing necessary details such as name, email, password, etc.                                
@@ -23,7 +23,7 @@ This project is a student registration and login system built with PHP, HTML, CS
    cd student-login-portal
    
 2.Set up a Local Server:
-   Run a local server such as XAMPP to support PHP applications. Ensure that Apache and PostgreSQL services are running in the XAMPP.
+   Run a local server such as XAMPP to support PHP applications. Ensure that Apache and MySQL services are running in the XAMPP.
 
 3.Configure Database Connection: 
    Open config.php in the project files and update it with your myphpadmin credentials (database name, username, and password).
